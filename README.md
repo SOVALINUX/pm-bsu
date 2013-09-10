@@ -22,3 +22,9 @@ Change dir to project and run
 [Java]: node main.js
 
 After it open http://localhost:8000/ and you should see some response:)
+
+Useful Links
+------------
+  * Swig (Template engine for html) http://paularmstrong.github.io/swig/
+  * MongoDb (Persistance layer) http://mongodb.github.io/node-mongodb-native/driver-articles/mongoclient.html
+  * Express (Web and MVC) http://expressjs.com/api.html
