@@ -1,0 +1,8 @@
+{% extends './main.html' %}
+{% block body %}
+{% if !err %}
+<h3>{{message}}</h3>
+{% else %}
+<h3>Error occured {{err|raw}}</h3>
+{% endif %}
+{% endblock %}
